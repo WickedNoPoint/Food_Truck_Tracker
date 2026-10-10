@@ -1,3 +1,5 @@
+Test authenticationservice communication with Database. Validate Result.
+
 Map test for API functionality
 Send api request via Google_maps_API_KEY
 retrieve map and pins
