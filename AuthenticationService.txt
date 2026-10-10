@@ -1,0 +1,5 @@
+Initial authentication service for the vendor accounts
+
+Username - email address
+password - 16 char minimum, letters, numbers, special characters
+encryption handler - Argon2
