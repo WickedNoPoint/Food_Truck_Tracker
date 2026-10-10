@@ -1,0 +1,5 @@
+Database Service
+
+serviceaccount={dbusername}
+servicepw={dbpw}
+databasetype=mongoDB
