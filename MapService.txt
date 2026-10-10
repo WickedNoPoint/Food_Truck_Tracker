@@ -2,3 +2,6 @@ function MapServices()
 
 var = Google_maps_API_KEY
 
+Retrived Map from service 
+
+Adding pins to map via API
