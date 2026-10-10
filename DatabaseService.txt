@@ -3,3 +3,5 @@ Database Service
 serviceaccount={dbusername}
 servicepw={dbpw}
 databasetype=mongoDB
+
+Open communication port {8881} to .\AuthenticationService.txt
