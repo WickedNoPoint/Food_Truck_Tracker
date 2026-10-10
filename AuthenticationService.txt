@@ -5,3 +5,5 @@ password - 16 char minimum, letters, numbers, special characters
 encryption handler - Argon2
 
 Open communication port {8881} to ./DatabaseService.txt
+
+validate password with DatabaseService

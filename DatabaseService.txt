@@ -5,3 +5,5 @@ servicepw={dbpw}
 databasetype=mongoDB
 
 Open communication port {8881} to .\AuthenticationService.txt
+
+check for matching credentials to request from AuthenticationService and respond
