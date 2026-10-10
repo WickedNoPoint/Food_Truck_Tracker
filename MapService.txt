@@ -1,0 +1,4 @@
+function MapServices()
+
+var = Google_maps_API_KEY
+
